@@ -1,0 +1,11 @@
+{
+	"name": "a-mean-boilerplate",
+	"version": "0.0.1",
+	"description": "A Boilerplate to build web applications on MEAN stacks",
+	"keywords": ["mean", "boilerplate"],
+	"homepage": "http://www.mustafagregory.com/",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/wfayeBerman/mean.git"
+	}
+}
