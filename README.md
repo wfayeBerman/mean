@@ -1,4 +1,4 @@
-mean
+A MEAN Boilerplate
 ====
 
-Mongo Express Angular Node
+A Boilerplate to build web applications on MEAN stacks
